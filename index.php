@@ -16,7 +16,7 @@
     <img src="http://tribodoci.net/wp-content/uploads/2013/07/top-5-scm-vitrine-300x212.png" />
     </p>
     
-    <p>a href="novapagina.php">Ir para Nova Página</a></p>
+    <p><a href="novapagina.php">Ir para Nova Página</a></p>
     
   </body>
 </html>
